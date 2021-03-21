@@ -18,13 +18,15 @@ function App() {
   
   return (
     <div>
-     {/* <Home/>
+      
+        <Home/>
+     {/* 
      <Button text='Submit'/> */}
 
       {/* <Class2/> */}
 
-     { signup ? <SignUp setSignup={setSignup} setLogin={setLogin} /> : "" }
-      { login ? <LogIn/> : "" }
+     {/* { signup ? <SignUp setSignup={setSignup} setLogin={setLogin} /> : "" }
+      { login ? <LogIn/> : "" } */}
       
 
       {/* <Button text='add'/> */}

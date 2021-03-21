@@ -1,6 +1,7 @@
 import React from 'react'
 
 function Button(prop){
+    console.log(prop)
     return(
         <div>
       
